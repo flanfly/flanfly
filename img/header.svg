@@ -1,0 +1,406 @@
+<svg fill="none" viewBox="0 0 830 249" width="830" height="249" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          padding-left: 30px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: flex-start;
+          width: 830px;
+          height: 249px;
+          background-image: url("header-bg.jpg");
+          background-size: contain;
+          color: white;
+          font: 100 34px/1.5 Helvetica, Verdana, sans-serif;
+          text-align: center;
+        }
+
+       .title, .subtitle, .mail  {
+         animation-name: anim-text-flow-keys;
+         animation-duration: 50s;
+         animation-iteration-count: infinite;
+         animation-direction: alternate;
+         animation-fill-mode: forwards;
+         padding: 0;
+         margin: 0;
+      }
+
+      .title {
+        font-size: 64px;
+      }
+       @keyframes anim-text-flow-keys {
+         0% {
+           color: rgba(92, 204, 214, 1);
+         }
+         5% {
+           color: rgba(92, 194, 214, 1);
+         }
+         10% {
+           color: rgba(214, 147, 92, 1);
+        }
+         15% {
+           color: rgba(92, 186, 214, 1);
+        }
+         20% {
+           color: rgba(137, 92, 214, 1);
+        }
+         25% {
+           color: rgba(92, 137, 214, 1);
+        }
+         30% {
+           color: rgba(214, 92, 165, 1);
+        }
+         35% {
+           color: rgba(214, 92, 175, 1);
+        }
+         40% {
+           color: rgba(92, 177, 214, 1);
+        }
+         45% {
+           color: rgba(92, 214, 186, 1);
+        }
+         50% {
+           color: rgba(177, 214, 92, 1);
+        }
+         55% {
+           color: rgba(169, 92, 214, 1);
+        }
+         60% {
+           color: rgba(214, 124, 92, 1);
+        }
+         65% {
+           color: rgba(92, 175, 214, 1);
+        }
+         70% {
+           color: rgba(214, 92, 120, 1);
+        }
+         75% {
+           color: rgba(92, 171, 214, 1);
+        }
+         80% {
+           color: rgba(163, 92, 214, 1);
+        }
+         85% {
+           color: rgba(106, 214, 92, 1);
+        }
+         90% {
+           color: rgba(106, 214, 92, 1);
+        }
+         95% {
+           color: rgba(92, 214, 202, 1);
+        }
+         100% {
+           color: rgba(214, 92, 149, 1);
+        }
+      }
+       .title span:nth-of-type(1) {
+         animation-delay: -19.8s;
+      }
+       .title span:nth-of-type(2) {
+         animation-delay: -19.6s;
+      }
+       .title span:nth-of-type(3) {
+         animation-delay: -19.4s;
+      }
+       .title span:nth-of-type(4) {
+         animation-delay: -19.2s;
+      }
+       .title span:nth-of-type(5) {
+         animation-delay: -19s;
+      }
+       .title span:nth-of-type(6) {
+         animation-delay: -18.8s;
+      }
+       .title span:nth-of-type(7) {
+         animation-delay: -18.6s;
+      }
+       .title span:nth-of-type(8) {
+         animation-delay: -18.4s;
+      }
+       .title span:nth-of-type(9) {
+         animation-delay: -18.2s;
+      }
+       .title span:nth-of-type(10) {
+         animation-delay: -18s;
+      }
+       .title span:nth-of-type(11) {
+         animation-delay: -17.8s;
+      }
+       .title span:nth-of-type(12) {
+         animation-delay: -17.6s;
+      }
+       .title span:nth-of-type(13) {
+         animation-delay: -17.4s;
+      }
+       .title span:nth-of-type(14) {
+         animation-delay: -17.2s;
+      }
+       .title span:nth-of-type(15) {
+         animation-delay: -17s;
+      }
+       .title span:nth-of-type(16) {
+         animation-delay: -16.8s;
+      }
+       .title span:nth-of-type(17) {
+         animation-delay: -16.6s;
+      }
+       .title span:nth-of-type(18) {
+         animation-delay: -16.4s;
+      }
+       .title span:nth-of-type(19) {
+         animation-delay: -16.2s;
+      }
+       .title span:nth-of-type(20) {
+         animation-delay: -16s;
+      }
+       .title span:nth-of-type(21) {
+         animation-delay: -15.8s;
+      }
+       .title span:nth-of-type(22) {
+         animation-delay: -15.6s;
+      }
+       .title span:nth-of-type(23) {
+         animation-delay: -15.4s;
+      }
+       .title span:nth-of-type(24) {
+         animation-delay: -15.2s;
+      }
+       .title span:nth-of-type(25) {
+         animation-delay: -15s;
+      }
+       .title span:nth-of-type(26) {
+         animation-delay: -14.8s;
+      }
+       .title span:nth-of-type(27) {
+         animation-delay: -14.6s;
+      }
+       .title span:nth-of-type(28) {
+         animation-delay: -14.4s;
+      }
+       .title span:nth-of-type(29) {
+         animation-delay: -14.2s;
+      }
+       .title span:nth-of-type(30) {
+         animation-delay: -14s;
+      }
+       .title span:nth-of-type(31) {
+         animation-delay: -13.8s;
+      }
+       .title span:nth-of-type(32) {
+         animation-delay: -13.6s;
+      }
+       .title span:nth-of-type(33) {
+         animation-delay: -13.4s;
+      }
+       .title span:nth-of-type(34) {
+         animation-delay: -13.2s;
+      }
+       .title span:nth-of-type(35) {
+         animation-delay: -13s;
+      }
+       .title span:nth-of-type(36) {
+         animation-delay: -12.8s;
+      }
+       .title span:nth-of-type(37) {
+         animation-delay: -12.6s;
+      }
+       .title span:nth-of-type(38) {
+         animation-delay: -12.4s;
+      }
+       .title span:nth-of-type(39) {
+         animation-delay: -12.2s;
+      }
+       .title span:nth-of-type(40) {
+         animation-delay: -12s;
+      }
+       .title span:nth-of-type(41) {
+         animation-delay: -11.8s;
+      }
+       .title span:nth-of-type(42) {
+         animation-delay: -11.6s;
+      }
+       .title span:nth-of-type(43) {
+         animation-delay: -11.4s;
+      }
+       .title span:nth-of-type(44) {
+         animation-delay: -11.2s;
+      }
+       .title span:nth-of-type(45) {
+         animation-delay: -11s;
+      }
+       .title span:nth-of-type(46) {
+         animation-delay: -10.8s;
+      }
+       .title span:nth-of-type(47) {
+         animation-delay: -10.6s;
+      }
+       .title span:nth-of-type(48) {
+         animation-delay: -10.4s;
+      }
+       .title span:nth-of-type(49) {
+         animation-delay: -10.2s;
+      }
+       .title span:nth-of-type(50) {
+         animation-delay: -10s;
+      }
+       .title span:nth-of-type(51) {
+         animation-delay: -9.8s;
+      }
+       .title span:nth-of-type(52) {
+         animation-delay: -9.6s;
+      }
+       .title span:nth-of-type(53) {
+         animation-delay: -9.4s;
+      }
+       .title span:nth-of-type(54) {
+         animation-delay: -9.2s;
+      }
+       .title span:nth-of-type(55) {
+         animation-delay: -9s;
+      }
+       .title span:nth-of-type(56) {
+         animation-delay: -8.8s;
+      }
+       .title span:nth-of-type(57) {
+         animation-delay: -8.6s;
+      }
+       .title span:nth-of-type(58) {
+         animation-delay: -8.4s;
+      }
+       .title span:nth-of-type(59) {
+         animation-delay: -8.2s;
+      }
+       .title span:nth-of-type(60) {
+         animation-delay: -8s;
+      }
+       .title span:nth-of-type(61) {
+         animation-delay: -7.8s;
+      }
+       .title span:nth-of-type(62) {
+         animation-delay: -7.6s;
+      }
+       .title span:nth-of-type(63) {
+         animation-delay: -7.4s;
+      }
+       .title span:nth-of-type(64) {
+         animation-delay: -7.2s;
+      }
+       .title span:nth-of-type(65) {
+         animation-delay: -7s;
+      }
+       .title span:nth-of-type(66) {
+         animation-delay: -6.8s;
+      }
+       .title span:nth-of-type(67) {
+         animation-delay: -6.6s;
+      }
+       .title span:nth-of-type(68) {
+         animation-delay: -6.4s;
+      }
+       .title span:nth-of-type(69) {
+         animation-delay: -6.2s;
+      }
+       .title span:nth-of-type(70) {
+         animation-delay: -6s;
+      }
+       .title span:nth-of-type(71) {
+         animation-delay: -5.8s;
+      }
+       .title span:nth-of-type(72) {
+         animation-delay: -5.6s;
+      }
+       .title span:nth-of-type(73) {
+         animation-delay: -5.4s;
+      }
+       .title span:nth-of-type(74) {
+         animation-delay: -5.2s;
+      }
+       .title span:nth-of-type(75) {
+         animation-delay: -5s;
+      }
+       .title span:nth-of-type(76) {
+         animation-delay: -4.8s;
+      }
+       .title span:nth-of-type(77) {
+         animation-delay: -4.6s;
+      }
+       .title span:nth-of-type(78) {
+         animation-delay: -4.4s;
+      }
+       .title span:nth-of-type(79) {
+         animation-delay: -4.2s;
+      }
+       .title span:nth-of-type(80) {
+         animation-delay: -4s;
+      }
+       .title span:nth-of-type(81) {
+         animation-delay: -3.8s;
+      }
+       .title span:nth-of-type(82) {
+         animation-delay: -3.6s;
+      }
+       .title span:nth-of-type(83) {
+         animation-delay: -3.4s;
+      }
+       .title span:nth-of-type(84) {
+         animation-delay: -3.2s;
+      }
+       .title span:nth-of-type(85) {
+         animation-delay: -3s;
+      }
+       .title span:nth-of-type(86) {
+         animation-delay: -2.8s;
+      }
+       .title span:nth-of-type(87) {
+         animation-delay: -2.6s;
+      }
+       .title span:nth-of-type(88) {
+         animation-delay: -2.4s;
+      }
+       .title span:nth-of-type(89) {
+         animation-delay: -2.2s;
+      }
+       .title span:nth-of-type(90) {
+         animation-delay: -2s;
+      }
+       .title span:nth-of-type(91) {
+         animation-delay: -1.8s;
+      }
+       .title span:nth-of-type(92) {
+         animation-delay: -1.6s;
+      }
+       .title span:nth-of-type(93) {
+         animation-delay: -1.4s;
+      }
+       .title span:nth-of-type(94) {
+         animation-delay: -1.2s;
+      }
+       .title span:nth-of-type(95) {
+         animation-delay: -1s;
+      }
+       .title span:nth-of-type(96) {
+         animation-delay: -0.8s;
+      }
+       .title span:nth-of-type(97) {
+         animation-delay: -0.6s;
+      }
+       .title span:nth-of-type(98) {
+         animation-delay: -0.4s;
+      }
+       .title span:nth-of-type(99) {
+         animation-delay: -0.2s;
+      }
+       .title span:nth-of-type(100) {
+         animation-delay: 0s;
+      }
+      </style>
+
+      <div class="container">
+        <h1 class="title">Kai 🔮</h1>
+        <span class="mail">kai (ät) p8n (döt) io</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
