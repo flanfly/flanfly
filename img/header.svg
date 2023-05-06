@@ -10,7 +10,7 @@
           align-items: flex-start;
           width: 830px;
           height: 249px;
-          background-image: url("/img/header-bg.jpg");
+          background-image: url("img/header-bg.jpg");
           background-size: contain;
           color: white;
           font: 100 34px/1.5 Helvetica, Verdana, sans-serif;
