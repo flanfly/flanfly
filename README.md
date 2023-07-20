@@ -9,6 +9,13 @@
 </picture>
 
 <li>
+    <b>COSCUP 2023:</b>
+    <a href="https://coscup.org/2023/en/landing">
+        Co-organizing the Open Source Firmware Track
+    </a>
+    w/ @zaolin & Lean Sheng Tan
+</li>
+<li>
     <b>Black Hat Asia 2023:</b>
     <a href="https://www.blackhat.com/asia-23/briefings/schedule/index.html#the-various-shades-of-supply-chain-sbom-n-days-and-zero-trust-31253">
         The Various Shades of Supply Chain: SBOM, N-Days and Zero Trust
