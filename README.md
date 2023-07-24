@@ -1,13 +1,23 @@
 <body>
-
-<picture style="width: 100%;">
-    <img alt="Meet me at Meat World" style="width: 100%;" src="img/header.svg">
+<picture>
+    <img alt="Me irl" src="img/nene.jpg">
 </picture>
+
+<div style="width: 830px; height: 249px; background-image: url('https://raw.githubusercontent.com/flanfly/flanfly/master/img/header-bg.jpg'); background-size: contain;">
+    <h1 class="title">Kai 🔮</h1>
+    <span class="mail">kai (ät) p8n (döt) io</span>
+</div>
 
 <picture>
     <img alt="Meet me at Meat World" src="img/meet-me.png">
 </picture>
 
+<li>
+    <b>All Systems Go! 2023:</b>
+    <a href="https://cfp.all-systems-go.io/all-systems-go-2023/talk/HGMV9U/">
+        An Unified TPM Event Log for Linux
+    </a>
+</li>
 <li>
     <b>COSCUP 2023:</b>
     <a href="https://coscup.org/2023/en/landing">
