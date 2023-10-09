@@ -1,12 +1,7 @@
 <body>
 <picture>
-    <img alt="Me irl" src="img/nene.jpg">
+    <img align="right" alt="Me irl" src="img/nene.png">
 </picture>
-
-<div style="width: 830px; height: 249px; background-image: url('https://raw.githubusercontent.com/flanfly/flanfly/master/img/header-bg.jpg'); background-size: contain;">
-    <h1 class="title">Kai 🔮</h1>
-    <span class="mail">kai (ät) p8n (döt) io</span>
-</div>
 
 <picture>
     <img alt="Meet me at Meat World" src="img/meet-me.png">
