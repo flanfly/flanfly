@@ -13,6 +13,12 @@
 </picture>
 
 <li>
+    <b>FOSSASIA 2024:</b>
+    <a href="https://youtu.be/cgzCf9WbgZY?t=159">
+        The Past, Present, and Future of Scaling Web3
+    </a>
+</li>
+<li>
     <b>All Systems Go! 2023:</b>
     <a href="https://cfp.all-systems-go.io/all-systems-go-2023/talk/HGMV9U/">
         An Unified TPM Event Log for Linux
